@@ -15,6 +15,19 @@ body
 	overflow: hidden;
 }
 
+.container-table
+{
+	width: 90%;
+	margin:auto;
+	overflow: hidden;
+}
+
+.table-box
+{
+	padding:20px;
+	margin:20px 0;
+}
+
 #main-header
 {
 	background-color: #4B0082; 
@@ -83,6 +96,7 @@ font-size: 10px;
 outline: none;
 }
 
+
 #box 
 {
 	padding-top: 30px; 
@@ -111,7 +125,6 @@ outline: none;
 	padding:20px;
 	margin:20px 0;
 }
-
 
 #main-footer{
 	background: #333;
