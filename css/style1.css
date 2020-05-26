@@ -30,7 +30,7 @@ body
 
 #main-header
 {
-	background-color: #4B0082; 
+	background-color: #0a659e; 
 	color: #fff;
 }
 
@@ -68,7 +68,7 @@ body
 
 #showcase
 {
-	background-image: url(../images/showcase.jpg);
+	background-image: url(../images/showcase3.jpg);
 	background-position: center right;
 	min-height: 300px;
 	margin-bottom: 30px;
@@ -114,7 +114,7 @@ outline: none;
 {
 	float:right;
 	width: 30%;
-	background: #4B0082;
+	background: #0a659e;
 	color: white;  
 	padding: 10px;
 	box-sizing: border-box;
